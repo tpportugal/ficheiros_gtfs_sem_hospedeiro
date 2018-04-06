@@ -23,7 +23,7 @@ Envie um email com o ficheiro como um anexo para [api@tpp.pt](mailto:api@tpp.pt)
 
 Se o tamanho do ficheiro for de 15MB ou superior, por favor contacte-nos por email sem anexar o ficheiro. Enviar-lhe-emos instruçoes alternativas sobre como enviar o seu ficheiro.
 
-## Como remover uma feed porque ela está alojada noutro local
+## Como remover uma feed porque está alojada noutro local
 
 Envie um email para [api@tpp.pt](mailto:api@tpp.pt) com o nome do ficheiro de feed neste repositório e informação acerca do URL estável onde ele pode ser encontrado. Por favor inclua informação acerca da sua afiliação: se trabalha para um operador de transportes públicos, um agência pública de transportes, grupo cívico, ou se tem algum outro interesse no ficheiro de feed em questão.
 
