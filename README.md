@@ -9,7 +9,7 @@ Para baixar um ficheiro de feed:
 
 1. Navegue através da lista de ficheiros em [https://github.com/tpportugal/ficheiros_gtfs_sem_hospedeiro/tree/master](https://github.com/tpportugal/ficheiros_gtfs_sem_hospedeiro/tree/master)
 2. Clique num dos ficheiros `.zip` da lista.
-3. Clique no botão `Raw` para baixar uma cópia do arquivo.
+3. Clique no botão `Download` para baixar uma cópia do arquivo.
 
 Para ver versões históricas de um ficheiro de feed
 
